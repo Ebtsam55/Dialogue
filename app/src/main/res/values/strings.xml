@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AndroidDialog</string>
+    <string name="dialog_message">Welcome to Alert Dialog</string>
+    <string name="dialog_title">Javatpoint Alert Dialog</string>
+
+        <string-array name="age_array">
+            <item>"select"</item>
+            <item>"10"</item>
+            <item>"20"</item>
+            <item>"30"</item>
+            <item>"40"</item>
+            <item>"50"</item>
+            <item>"60"</item>
+
+        </string-array>
+
+</resources>
